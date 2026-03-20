@@ -5,6 +5,6 @@ TL;DR:
 * This Claude instance is instructed to be as adversarial as possible
 * It writes reports about the reviewed protocol's findings
 
-This can be used to review anything related to DeFi, and can go beyond what most research reports do.
+**Nothing written by the DeFi Bullshit Detector should be considered gospel.** It is a tool to examine everything that is visible online, but does not take into account other data, such as group chats, which may contain signals.
 
-All the reports I create with this instance are shared here, so it can be used as a research baseline
+That said, it enables to complete 80% of a due diligence process in an accelerated manner, which more than justifies its use.
